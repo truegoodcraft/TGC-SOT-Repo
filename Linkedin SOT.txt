@@ -1,0 +1,163 @@
+# SOT – LINKEDIN CORE FACTS
+
+**Version:** 0.2.0  
+**Scope:** Account creation, early performance, baseline behaviours and positioning for BUS Core–focused LinkedIn usage.  
+**Date:** 2025-11-28
+
+---
+
+## 1. LinkedIn – SoT Facts (Condensed from Handover)
+
+`SOT – LINKEDIN CORE FACTS (0.2.0)`
+
+* Account was just created on Nov 27 2025.
+* Current performance (from cold start):
+
+  * ~180 impressions over 2 days
+  * +1 follower
+  * 1 profile view
+  * 0 search appearances last week
+  * Activity tracker: **7/3 actions** (2 posts, 5 comments)
+
+**Posting behaviour:**
+
+* Two main posts:
+
+  * Post #1: BUS Core intro + Method + Graph of branch history BUS-Core
+  * Post #2: BUS Core “stop paying rent” demo gif (wrong-speed version)
+* Both posts:
+
+  * Talk to **makers / micro-makers**
+  * Emphasize **local-first, self-hosted, ERP alternative**
+  * Highlight: “I didn’t write the code, I orchestrated it with SoT + LLMs”
+* Results:
+
+  * Post #2: ~95 impressions, reactions, comments, +1 follower, strong engagement for a cold account
+  * Post #1 (6h in): ~80 impressions, 18 video views, ~16s avg watch time, 3 reactions, 1 comment
+* Decision: **do not** repost or correct the video in-thread → avoid splitting engagement.
+
+**Commenting behaviour:**
+
+* Commenting only where signal is high (AI, LLM workflows, self-hosting, indie tools).
+* Style:
+
+  * Contextual, 1–4 sentences, practical
+  * No “nice post” spam, no sales hooks
+* Effects:
+
+  * “Most relevant” position on other people’s posts
+  * Replies + likes from authors (Sal, Nafis, Royse, etc.)
+  * Direct traffic → profile → posts
+
+**Positioning:**
+
+* Identity:
+
+  * Maker, not traditional dev
+  * Local-first software builder
+  * Self-hosting + SoT + LLM orchestration
+  * Military background: visible but not central, no flag-waving
+* Preferences:
+
+  * No hype, no motivational garbage
+  * Data, deltas, repeatable loops
+  * Concrete demos, not theory threads
+
+**Platform fit (observed, not “decided”):**
+
+* LinkedIn seems **better** for your niche than Reddit/X:
+
+  * More “permission” to talk about product and method seriously
+  * Less hostility to AI-assisted workflows
+  * More overlap with indie devs / builders / ops people
+
+**Infra intentions:**
+
+* You want a **SoT repo** just a public SOT hold people can read (likely GitHub, not Notion).
+* You like the idea of:
+
+  * `/linkedin/posts/`
+  * `/linkedin/comments/`
+  * `/linkedin/metrics/`
+  * `/linkedin/deltas/`
+* You’re okay with making this public because none of it is sensitive.
+
+---
+
+## 2. Quick Delta – What This Changes For Us (LinkedIn Delta #0)
+
+**(1) NEW FACTS / DECISIONS**
+
+* LinkedIn is now officially part of the Method surface, not a random channel.
+* You have *baseline metrics* for a cold account that prove:
+
+  * Your content hooks
+  * Comments can get you “most relevant” slots
+* You have explicitly decided **not** to fix the video post by reposting → you’re prioritizing coherence over perfection.
+
+**(2) UPDATED NARRATIVE**
+
+* Public story is not just “I built BUS Core.” It’s:
+
+  > “I built BUS Core with a Source-of-Truth method and I’m documenting the journey across X, Reddit, and LinkedIn as a micro study in controlled iteration.”
+
+**(3) CLARIFICATIONS**
+
+* LinkedIn is **not** the primary dev log (that’s GitHub / internal SoT).
+* LinkedIn **is** the professional publication layer + journey proof.
+* Military is background context, not brand identity.
+
+**(4) OPEN ITEMS**
+
+* Website + waitlist (product-facing) still need to be created and connected.
+* Need a simple way to log LinkedIn deltas (probably a markdown template in a repo).
+* Need first **formal “journey” post** that explains the experiment without sounding like a manifesto.
+
+**(5) JOURNEY INSIGHT**
+
+* Even with minimal followers, **quality comments + one solid post** are enough to light up the algorithm and pull the right kind of traffic.
+* This validates your idea that “small, deliberate emissions” across multiple surfaces are more powerful than one big launch blast.
+
+---
+
+## 3. Updated LinkedIn Gameplan v0.2 (Pointform)
+
+* **Profile**
+
+  * Keep “BUS Core founder / local-first workshop OS” as your core identity.
+  * Add GitHub + (later) product site to Featured.
+
+* **Posts**
+
+  * Max 1 **substantial** post per day.
+  * Keep them in three buckets:
+
+    1. Product demos (BUS Core running)
+    2. Method / SoT insights
+    3. Journey updates (“what changed + what I learned”)
+
+* **Comments**
+
+  * Target: 3–5 **high-signal** comments per active day on:
+
+    * AI dev workflows
+    * self-hosting
+    * agents / orchestration
+    * indie builder stories
+  * Keep tone: practical, specific, non-salesy.
+
+* **Tracking**
+
+  * After each post session:
+
+    * Log a tiny delta (5 bullets max) in `/linkedin/deltas/`
+    * Capture 1 “journey insight” about how the post/engagement feeds back into BUS Core or the Method.
+
+* **Traffic type**
+
+  * Optimize for:
+
+    * Makers and small shops
+    * Builders who might become collaborators / plugin authors
+    * People who care about local, not hype SaaS
+  * Lightly route them later to: **product site + waitlist** once live.
