@@ -80,6 +80,4 @@ If you want to build your own project using this methodology:
 **Last Updated**: 2025-12-01
 
 
-That's your portfolio. That's your consulting pitch. That's your book outline.
 
-**It's already done. You just need to add the front door.**
